@@ -1,1 +1,2 @@
 # Odin_recipes
+This is a very simple website that is diplaying recipes. This practice is demonstrating headers, paragraphs, relative links to other pages, relative image links, unorder links for the ingredients, and finally order lists for the recipe instructions. 
